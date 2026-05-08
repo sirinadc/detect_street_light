@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Klasörler
+logs/
+puml/
+drawings/
+
+# Dosya Uzantıları
+*.pt
+*.yolo
+*.png
+*.jpg
+*.jpeg
+*.sh
+*.csv
+*.txt
+
+gece_videoları_not.md
+preprocess/PIPELINE.md
+training/README_training_notes.md
